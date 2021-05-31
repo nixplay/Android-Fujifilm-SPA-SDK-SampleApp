@@ -33,5 +33,5 @@ dependencies {
     implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
     implementation 'ch.acra:acra:4.6.2'
     implementation('fr.avianey.com.viewpagerindicator:library:2.4.1@aar')
-    implementation('com.fujifilmssd:fujifilm.spa.sdk:1.11.0')
+    implementation('com.github.nixplay:Android-Fujifilm-SPA-SDK-SampleApp:1.11.1')
 }
